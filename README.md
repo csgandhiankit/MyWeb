@@ -4,5 +4,5 @@
 
 Tools used: 
 1) Bootstrap
-2) github pages
+2) Github Pages
 
